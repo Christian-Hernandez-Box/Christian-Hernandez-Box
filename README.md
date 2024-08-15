@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian Hernandez</h1>
-<h3 align="center">Experienced IT support engineer with a background in software development methodologies and cross-platform system administration, seeking to transition into a software engineering role. Eager to apply technical expertise in Python, JavaScript, and frameworks like Flask and React to contribute to innovative software projects. Proven ability to optimize IT systems and support diverse technologies, ready to bring a valuable blend of technical skills and problem-solving capabilities to a software engineering team.</h3>
+<h3 align="center">Experienced IT engineer with a strong foundation in software development, seeking to transition into a software engineering role. Over the course of my career, I have proactively sought out opportunities to expand my technical skill set through self-directed learning, mentorship from senior engineers, and participation in industry conferences. My hands-on experience in backend integrations, cloud computing, and CI/CD pipelines, coupled with my proficiency in multiple programming languages and frameworks, has prepared me to contribute effectively to a software engineering team. I am eager to apply my skills and continue growing in a challenging and innovative environment.</h3>
 
 - 🌱 I’m currently learning **React & Redux**
 
