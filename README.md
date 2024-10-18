@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React & Redux<br><br>👨‍💻 All of my projects are available at https://github.com/Christian-Hernandez-Box<br><br>💬 Ask me about Box & Anything IT Related<br><br>📫 How to reach me chernandez@box.com</p>
+<p align="left">🌱 I’m currently learning about design trade-offs for high-performance data systems.<br><br>👨‍💻 All of my projects are available at https://github.com/Christian-Hernandez-Box<br><br>💬 Ask me about Box & Anything IT Related<br><br>📫 How to reach me chernandez@box.com</p>
 
 ###
 
