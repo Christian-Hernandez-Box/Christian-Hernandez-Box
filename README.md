@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer at JPMorgan Chase with a focus on building scalable, reliable, and secure backend systems within enterprise platforms. I specialize in Python, Java, SQL, and AWS, and have hands-on experience designing CI/CD pipelines, automating workflows, and improving system resilience for mission-critical applications.
+Software Engineer at JPMorgan Chase building geospatial automation and data systems for security operations. Working with Python, SQL, ArcGIS, and AWS to design solutions that process large-scale data and automate compliance workflows.
 
 
 ## 🌐 Socials:
